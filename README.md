@@ -1,4 +1,4 @@
-<h3>About Me :man:</h3>
+<h2>About Me :man:</h2>
 <hr>
 I am a Senior Computer Science student currently focusing on practicing writing algorithms and preparing for my final semester at UTSA. I am also applying for full time positions to begin upon graduation. I am interested in networking and collaborating with likeminded individuals to create exciting new applications as well as work through problems on LeetCode or Hackerrank.
 <br>
@@ -11,8 +11,9 @@ I am a Senior Computer Science student currently focusing on practicing writing 
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/beasleyk/">LinkedIn</a></li>
   <li>😄 Pronouns: He/Him/His</li>
   <li>⚡ Fun fact: This past semester (Spring 2022), I was a Cybersecurity Tech Fellow through CodePath, and instructed roughly 15 students on several subjects such as Cryptography, SQLi, and using Burpe Suite software.</li>
+</ul>
 
-<h3>Skills :trophy:</h3>
+<h2>Skills :trophy:</h2>
 <hr>
 <ul>
   <li>Python</li>
@@ -24,4 +25,4 @@ I am a Senior Computer Science student currently focusing on practicing writing 
 </ul>
 <hr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thebeasknees&theme=radical)
