@@ -20,5 +20,6 @@ I am a Senior Computer Science student currently focusing on practicing writing 
   <li>SQL</li>
   <li>HTML/CSS/JavaScript (In progress)</li>
 </ul>
+
 <h2>Stats :chart_with_upwards_trend:</h2>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thebeasknees&theme=radical)
