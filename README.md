@@ -1,4 +1,4 @@
-<h2>About Me :man:</h2>
+<h2>About Me:man:</h2>
 I am a Senior Computer Science student currently focusing on practicing writing algorithms and preparing for my final semester at UTSA. I am also applying for full time positions to begin upon graduation. I am interested in networking and collaborating with likeminded individuals to create exciting new applications as well as work through problems on LeetCode or Hackerrank.<br><br>
 <ul>
   <li>🔭 I’m currently working on creating a 2D Action Roguelike game in Unity using C#</li>
@@ -11,7 +11,7 @@ I am a Senior Computer Science student currently focusing on practicing writing 
   <li>⚡ Fun fact: This past semester (Spring 2022), I was a Cybersecurity Tech Fellow through CodePath, and instructed roughly 15 students on several subjects such as Cryptography, SQLi, and using Burpe Suite software.</li>
 </ul>
 
-<h2>Skills :trophy:</h2>
+<h2>Skills:trophy:</h2>
 <ul>
   <li>Python</li>
   <li>Java (JavaFX - Android Development)</li>
